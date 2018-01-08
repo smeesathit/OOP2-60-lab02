@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RandomFrame
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\r\n
+comment2.params=
+comment2.target=RandomFrame()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ RandomFrame\r\n
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

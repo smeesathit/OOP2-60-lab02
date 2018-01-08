@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=CashCard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CashCard\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CashCard()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CashCard\r\n
+comment2.params=cardNum
+comment2.target=void\ setCardNumber(java.lang.String)
+comment2.text=\r\n\ Set\ method\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCardNumber()
+comment3.text=\r\n\ Get\ methods\r\n
+comment4.params=
+comment4.target=double\ getCardBalance()
+comment5.params=amount
+comment5.target=void\ refill(double)
+comment5.text=\r\n\ Other\ methods\r\n
+comment6.params=amount
+comment6.target=void\ deduct(double)
+numComments=7
